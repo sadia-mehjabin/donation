@@ -83,6 +83,8 @@ body{
 footer{
     background-color: black;
     color: tomato;
-    height: 50px;
+    height: 120px;
+    padding-top: 10px;
+    margin-top: 20px;
 
 }
