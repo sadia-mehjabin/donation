@@ -36,12 +36,12 @@ body{
     border-radius: 5px;
     font-weight: 700;
 }
-#no-2-h1{
+.no-2-h1{
     color: black;
     font-size: 50px;
     padding-top: 50px;
 }
-#second-paragraph{
+.second-paragraph{
     font-size: 20px;
     color: gray;
 }
@@ -87,4 +87,45 @@ footer{
     padding-top: 10px;
     margin-top: 20px;
 
+}
+.icon-sector{
+    display: flex;
+    align-items: center;
+    a
+}
+.icon-1{
+    background-color: rgb(214, 201, 201);
+    border: 2px ;
+    border-radius: 7px;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-size: 35px;
+    color: rgb(143, 222, 236);
+    font-weight: 400px;
+}
+.icon-2{
+    background-color: rgb(214, 201, 201);
+    border: 2px ;
+    border-radius: 7px;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-size: 35px;
+    color: rgb(220, 143, 195);
+    font-weight: 400px;
+}
+.icon-3{
+    background-color: rgb(210, 120, 120);
+    border: 2px ;
+    border-radius: 7px;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+    font-size: 35px;
+    color: rgb(110, 109, 109);
+    font-weight: 400px;
 }
