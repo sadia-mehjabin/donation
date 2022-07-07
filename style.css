@@ -77,7 +77,8 @@ body{
 }
 
 .sect-two{
-    width: 70%;
+    width: 100%;
+    align-content: center;
  
 }
 footer{
@@ -91,6 +92,7 @@ footer{
 .icon-sector{
     display: flex;
     justify-content: center;
+    margin-top: 30px;
     
     
 }
@@ -132,9 +134,21 @@ footer{
 }
 .font-color{
     color: black;
-    font-size: large;
+    font-size: 35px;
 }
 .paragraph{
-    font-size: 10px;
-    color: ;
+    font-size: 20px;
+    color: gray;
+}
+.image-sector{
+    display: flex;
+    margin-top: 20px;
+
+}
+.third-container{
+    display: flex;
+
+}
+.about{
+    color: black;
 }
