@@ -90,8 +90,9 @@ footer{
 }
 .icon-sector{
     display: flex;
-    align-items: center;
-    a
+    justify-content: center;
+    
+    
 }
 .icon-1{
     background-color: rgb(214, 201, 201);
@@ -101,7 +102,7 @@ footer{
     width: 250px;
     height: 250px;
     padding: 15px;
-    font-size: 35px;
+    font-size: 25px;
     color: rgb(143, 222, 236);
     font-weight: 400px;
 }
